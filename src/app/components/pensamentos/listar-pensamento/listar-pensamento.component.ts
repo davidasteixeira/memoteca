@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListarPensamentoComponent implements OnInit {
 
-  listaPensamentos = [
+  listaPensamentos = [/*
     {
       conteudo: 'Passo informações para o componente filho',
       autoria: 'Componente Pai',
@@ -17,7 +17,7 @@ export class ListarPensamentoComponent implements OnInit {
       conteudo: 'Minha propriedade é decorada com @Input()',
       autoria: 'Componente Filho',
       modelo: 'modelo3'
-    }
+    }*/
   ];
 
 
